@@ -1,6 +1,4 @@
-### Hi there 👋
-
- Hi ! Here's what I bring to the table:
+### Hi there 👋 here's my portfolio :
 
 🤖 Expertise in Artificial Intelligence
 🌐 Proficient in Web Scraping
@@ -21,3 +19,5 @@ TensorFlow, PyTorch, Scikit-learn
 BeautifulSoup, Scrapy, Selenium
 Metasploit
 📫 How to connect with me:
+email : hammoudrawad@gmail.com 
+linkedin : 
