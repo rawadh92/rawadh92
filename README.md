@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**rawadh92/rawadh92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Hi ! Here's what I bring to the table:
 
-Here are some ideas to get you started:
+🤖 Expertise in Artificial Intelligence
+🌐 Proficient in Web Scraping
+🔒 Skilled in web design
+😃 a bit more about myself:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏅 Passionate about leveraging AI for real-world impact
+💻 Always exploring the latest in tech and innovation
+🥇 Excited to collaborate on cutting-edge projects
+🎓 Education & Achievements:
+
+🧑‍💻 students at AI institut
+🏆 2cnd place at Aleph.im & POC hackathon with an Ai pipe-line
+🔧 Tools & Technologies:
+
+Python,tsx,R,JavaScript,HTML,CSS
+TensorFlow, PyTorch, Scikit-learn
+BeautifulSoup, Scrapy, Selenium
+Metasploit
+📫 How to connect with me:
