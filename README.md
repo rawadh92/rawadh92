@@ -1,23 +1,23 @@
 ### Hi there 👋 here's my portfolio :
 
-🤖 Expertise in Artificial Intelligence
-🌐 Proficient in Web Scraping
-🔒 Skilled in web design
-😃 a bit more about myself:
+🧠 Knowledgeable in Artificial Intelligence  
+🌟 Competent in Web Scraping and Web Design (HTML, CSS)  
+🔧 Skilled in the ergonomic and functional aspects of UI/UX  
 
-🏅 Passionate about leveraging AI for real-world impact
-💻 Always exploring the latest in tech and innovation
-🥇 Excited to collaborate on cutting-edge projects
-🎓 Education & Achievements:
+🚀 Passionate about the concrete impact of AI in the real world  
+💼 Always seeking innovations and new opportunities in trading  
+💡 Excited to collaborate on cutting-edge projects  
 
-🧑‍💻 students at AI institut
-🏆 2cnd place at Aleph.im & POC hackathon with an Ai pipe-line
-🔧 Tools & Technologies:
+# Education & Achievements
 
-Python,tsx,R,JavaScript,HTML,CSS
-TensorFlow, PyTorch, Scikit-learn
-BeautifulSoup, Scrapy, Selenium
-Metasploit
-📫 How to connect with me:
-email : hammoudrawad@gmail.com 
-linkedin : 
+- 🎓 Student at the Institute of Artificial Intelligence  
+- 🏆 Achievements in data analysis with Pandas  
+
+# Tools & Technologies
+
+- Languages: Python, R, JavaScript  
+- Frameworks and libraries: TensorFlow, PyTorch, Scikit-learn, ARIMA model  
+- Web Scraping tools: BeautifulSoup, Scrapy  
+📫 contact me :
+email : hammouderawad@gmail.com 
+linkedin : https://www.linkedin.com/in/rawad-hammoude-a534aa2b1/
