@@ -11,7 +11,7 @@
 # Education & Achievements
 
 - 🎓 Student at the Institute of Artificial Intelligence  
-- 🏆 Achievements in data analysis with Pandas  
+- 🏆 Achievements in data analysis with Pandas, matplotlb, plotly and bokeh  
 
 # Tools & Technologies
 
