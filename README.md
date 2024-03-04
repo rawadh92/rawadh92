@@ -10,7 +10,7 @@
 
 # Education & Achievements
 
-- 🎓 Student at the Institute of Artificial Intelligence  
+- 🎓 Student at the AI Institut  
 - 🏆 Achievements in data analysis with Pandas, matplotlb, seaborn, plotly and bokeh  
 
 # Tools & Technologies
