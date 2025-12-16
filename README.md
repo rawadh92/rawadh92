@@ -10,7 +10,7 @@
 
 # Education & Achievements
 
-- 🎓 Student at the Epita 
+- 🎓 Student at Epita 
 - 🏆 Achievements in data analysis with Pandas, matplotlb, seaborn, plotly and bokeh  
 
 # Tools & Technologies
