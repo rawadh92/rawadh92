@@ -10,12 +10,12 @@
 
 # Education & Achievements
 
-- 🎓 Student at the AI Institut  
+- 🎓 Student at the Epita 
 - 🏆 Achievements in data analysis with Pandas, matplotlb, seaborn, plotly and bokeh  
 
 # Tools & Technologies
 
-- Languages: Python, R, JavaScript  
+- Languages: Python, R, JavaScript, Java, C, C++, Dart 
 - Frameworks and libraries: TensorFlow, PyTorch, Scikit-learn, ARIMA model  
 - Web Scraping tools: BeautifulSoup, Scrapy  
 📫 contact me :
